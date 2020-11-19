@@ -7,5 +7,6 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "downlevelIteration": true,
+    "allowJs": true
   }
 }
