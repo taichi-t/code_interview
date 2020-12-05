@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "ts-node": "^9.1.0"
+  },
   "devDependencies": {
     "@types/jest": "^26.0.15",
     "jest": "^26.6.3",

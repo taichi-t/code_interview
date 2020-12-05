@@ -6,7 +6,6 @@
     "noUnusedParameters": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
-    "downlevelIteration": true,
-    "allowJs": true
+    "downlevelIteration": true
   }
 }
