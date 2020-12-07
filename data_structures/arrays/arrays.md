@@ -25,3 +25,11 @@ const strings = ['a', 'b', 'c', 'd'];
 
 Array is not much for deleting and inserting
 because its index is changed when that methods is executed.
+
+## Leet code references
+
+- [Two sum](https://leetcode.com/problems/two-sum/description/)
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
+- [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+- [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
