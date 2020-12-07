@@ -26,6 +26,18 @@ const strings = ['a', 'b', 'c', 'd'];
 Array is not much for deleting and inserting
 because its index is changed when that methods is executed.
 
+## Pros
+
+- Fast lookups
+- Fast push/pop
+- Ordered
+
+## Cons
+
+- Slow inserts
+- Slow deletes
+- Fixed size (if using static array)
+
 ## Leet code references
 
 - [Two sum](https://leetcode.com/problems/two-sum/description/)
